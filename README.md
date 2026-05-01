@@ -20,11 +20,6 @@ Need a AWS Account or AWS login credentials.
   >         Test Environment Used: GitHub 
   >         Deploy Environment Used: Amazon S3, Amazon CloudFront.
 
-  > Foundational ML Model Details:
->
->           Model: Amazon Titan-Text Premier G1
->           Model Access Provider: Amazon Bedrock service
-
   > Compute Service:
 > 
 >           Model input Prompting & getting Response :Amazon Lambda Service
